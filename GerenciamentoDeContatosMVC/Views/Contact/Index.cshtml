@@ -1,0 +1,35 @@
+﻿@model IEnumerable<GerenciamentoDeContatosMVC.Models.Contato>
+
+@{
+	ViewData["Title"] = "Lista de Contatos";
+}
+
+<h1>Lista de Contatos</h1>
+
+<p>
+	<a asp-action="Create" class="btn btn-primary">Adicionar Contato</a>
+</p>
+
+<table class="table">
+	<thead>
+		<tr>
+			<th>Nome</th>
+			<th>Email</th>
+			<th>Whatsapp</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var contato in Model)
+		{
+			<tr>
+				<td>@contato.Nome</td>
+				<td>@contato.Email</td>
+				<td>@contato.Whatsapp</td>
+				<td>
+					<a asp-action="Delete" asp-route-id="@contato.Id" class="btn btn-danger">Deletar Contato</a>
+				</td>
+			</tr>
+		}
+	</tbody>
+
+</table>
