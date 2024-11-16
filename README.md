@@ -1,8 +1,8 @@
 <h1 align="center">
   <br>
-  <img src="GerenciamentoDeContatosMVC/Views/Assets/GerenciamentoDeContatosMVC_ListaDeContatos.png" width="400" height="300">
-  <img src="GerenciamentoDeContatosMVC/Views/Assets/GerenciamentoDeContatosMVC_AdicionarContato.png" width="400" height="300">
-  <img src="GerenciamentoDeContatosMVC/Views/Assets/GerenciamentoDeContatosMVC_ListaDeContatosAdicionado.png" width="400" height="300">
+  <img src="GerenciamentoDeContatosMVC/Views/Assets/GerenciamentoDeContatosMVC_ListaDeContatos.png" width="500" height="300">
+  <img src="GerenciamentoDeContatosMVC/Views/Assets/GerenciamentoDeContatosMVC_AdicionarContato.png" width="500" height="300">
+  <img src="GerenciamentoDeContatosMVC/Views/Assets/GerenciamentoDeContatosMVC_ListaDeContatosAdicionado.png" width="500" height="300">
 <br>
   Gerenciamento de Contatos | MVC (Model View Controller)
 </h1>
