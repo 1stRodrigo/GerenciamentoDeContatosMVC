@@ -1,4 +1,8 @@
-<h1 align="center">Gerenciamento de Contatos | MVC (Model View Controller)
+<h1 align="center">
+  <br>
+  <img src="GerenciamentoDeContatosMVC/Views/Assets/GerenciamentoDeContatosMVC_AdicionarContato.png" width="200">
+<br>
+  Gerenciamento de Contatos | MVC (Model View Controller)
 </h1>
 
 <p align="center">
