@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="GerenciamentoDeContatosMVC/Views/Assets/GerenciamentoDeContatosMVC_ListaDeContatos.png" width="500" height="300">
+  <img src="GerenciamentoDeContatosMVC/Views/Assets/GerenciamentoDeContatosMVC_CodeFilesMVC.png" width="500" height="300">
   <img src="GerenciamentoDeContatosMVC/Views/Assets/GerenciamentoDeContatosMVC_AdicionarContato.png" width="500" height="300">
   <img src="GerenciamentoDeContatosMVC/Views/Assets/GerenciamentoDeContatosMVC_ListaDeContatosAdicionado.png" width="500" height="300">
 <br>
@@ -18,6 +18,8 @@ MVC (Model-View-Controller) is divided into three layers: the Model, responsible
 Este projeto acadêmico foi desenvolvido utilizando ASP.NET com o intuito de aplicar e consolidar os conceitos aprendidos sobre o padrão de arquitetura MVC, sem a preocupação de um produto final, mas focando no aprendizado e na aplicação prática da arquitetura.
 O MVC (Model-View-Controller) é dividido em três camadas: o Model, responsável pela lógica de dados e regras de negócio; a View, encarregada da interface com o usuário; e o Controller, que gerencia a comunicação entre a View e o Model. Este exercício me permitiu entender melhor como separar as responsabilidades dentro de uma aplicação, facilitando a manutenção e escalabilidade do código, além de proporcionar uma experiência prática com a aplicação do MVC em um contexto real de desenvolvimento.  
 </p>
+
+<img src="GerenciamentoDeContatosMVC/Views/Assets/GerenciamentoDeContatosMVC_CodeControllersContactController.png" width="500" height="300">
 
 ---
 
